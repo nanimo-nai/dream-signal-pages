@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "梦电波 Dream Signal",
+  "short_name": "梦电波",
+  "lang": "zh-CN",
+  "description": "用于情绪探索、关系想象与文学体验的娱乐性工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#171329",
+  "theme_color": "#171329",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
