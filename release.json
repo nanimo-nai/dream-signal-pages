@@ -1,0 +1,19 @@
+{
+  "format": "dream-signal-static-release",
+  "version": "0.1.6",
+  "base": "/dream-signal-pages/",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "404.html": "a138efe6cf53a7536c13ebd7d4d0e4ec8804588953ac610ac3d5a6108a1e6e8d",
+    "assets/index-B103Aabv.js": "abc505c9962cc74a77227221c166239355559d58a2557a09c7ad39d087f6d550",
+    "assets/index-CO-6M3ur.css": "f09b46a772be2db4c97c41c78dd0b440cf7e00a73878e9d1d4cfdfea7b15b9a7",
+    "icon-192.png": "3e2101c9b947f2e568a004534c6a188c2ee51cb5481a347b60fb472bc724589d",
+    "icon-512.png": "fcb7fd967ced69ae18ba16142d1c994a80f3534c515828b6a2378ed46846fd20",
+    "icon.svg": "43f31909d7e01b4bd8be7b370f48940022c379ee9e70c45ba47358abee4de9e0",
+    "index.html": "a138efe6cf53a7536c13ebd7d4d0e4ec8804588953ac610ac3d5a6108a1e6e8d",
+    "manifest.webmanifest": "36539e8a643819584341933cbf9206fc61cc8531e0ee205896b40ad1fb25d7f4",
+    "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "sw.js": "4031fa8b3f2938105a92fdf434de7a098dd0ee58eb31dba441262fc322f7014b",
+    "THIRD_PARTY_NOTICES.txt": "a56e19704d0263f0696e4896df51dc00e81928d6012c36161f3cdfc86eb17222"
+  }
+}
