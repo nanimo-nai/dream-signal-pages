@@ -1,5 +1,7 @@
-# Dream Signal
+# 梦电波 Dream Signal
 
-Entertainment web app. This repository contains prebuilt static assets and Pages publishing configuration. Development source is maintained separately.
+以塔罗、象征意象与 AI 文本生成为基础的个人非商业娱乐工具，用于情绪探索、关系想象和文学体验。占卜不预测未来，不读取他人真实思想，不代表角色官方设定或创作者意图。
 
-Data and optional API credentials remain in the current browser; this application has no accounts, cloud database or automatic sync. Export JSON for backups. Browser JavaScript is necessarily publicly readable. Search indexing restrictions are not access control.
+本仓库只保存预构建静态网页、部署配置和公开更新说明；独立开发源码另行维护。
+
+记录与 API 配置保存在当前浏览器，设备之间不自动同步；密钥只有主动选择记住时才持久保存。请使用 JSON 自行备份。公开网页和浏览器 JavaScript 都可被访问，noindex 不构成访问控制。
