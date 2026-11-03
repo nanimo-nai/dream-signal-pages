@@ -34,7 +34,7 @@ jobs:
           await walk('site');
           assert.deepEqual(files.sort(), Object.keys(release.files).sort());
           for(const file of files) {
-            assert(/^(index\.html|404\.html|\.nojekyll|robots\.txt|manifest\.webmanifest|sw\.js|icon\.svg|icon-(192|512)\.png|THIRD_PARTY_NOTICES\.txt|assets\/[a-zA-Z0-9_-]+\.(js|css))$/.test(file), 'Unexpected file');
+            assert(/^(index\.html|404\.html|\.nojekyll|robots\.txt|manifest\.webmanifest|sw\.js|icon\.svg|icon-(192|512)\.png|THIRD_PARTY_NOTICES\.txt|fonts\/(NotoSansSC\.ttf|OFL\.txt)|assets\/[a-zA-Z0-9_-]+\.(js|css))$/.test(file), 'Unexpected file');
             assert.equal(createHash('sha256').update(await readFile('site/'+file)).digest('hex'), release.files[file]);
           }
           const html = await readFile('site/index.html','utf8');

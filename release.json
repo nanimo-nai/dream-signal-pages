@@ -1,19 +1,22 @@
 {
   "format": "dream-signal-static-release",
-  "version": "0.2.4",
+  "version": "0.4.1",
   "base": "/dream-signal-pages/",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "4a36f89c3e98e324329c73b706d7628250ddc74996dcc5ce52edd5c781341ffd",
-    "assets/index-B8LZ8gdA.js": "f55de330a5286e581cf4d945f6b00531e65b1776777367b6af283416ddee85a1",
-    "assets/index-kr2Er35L.css": "367d408c88d37c374b40e9484e53e69aeb33a3391ca45c0f7228e23a59376f01",
+    "404.html": "596b6bc761627beef6ba4aec2a18116d3a9a416acc32d5487e251dbab3ffa7f3",
+    "assets/index-9Mo__6A_.css": "d12072f07e04e9fc9efe5b22c58fbfe174dc76de48ba00cc3d442c276bf266d6",
+    "assets/index-DC_45FAb.js": "a7a32727d4f1365525bcbca6b5ccd9dfdacef69ddf14cce6b7feb59e9b40a0b6",
+    "assets/shareCanvas-vv3ThuRH.js": "aecf9e57fa2ecaa797c11caf2a5fba10d4da38f1bed7f9a552efc9e36893839c",
+    "fonts/NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "fonts/OFL.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
     "icon-192.png": "3e2101c9b947f2e568a004534c6a188c2ee51cb5481a347b60fb472bc724589d",
     "icon-512.png": "fcb7fd967ced69ae18ba16142d1c994a80f3534c515828b6a2378ed46846fd20",
     "icon.svg": "43f31909d7e01b4bd8be7b370f48940022c379ee9e70c45ba47358abee4de9e0",
-    "index.html": "4a36f89c3e98e324329c73b706d7628250ddc74996dcc5ce52edd5c781341ffd",
+    "index.html": "596b6bc761627beef6ba4aec2a18116d3a9a416acc32d5487e251dbab3ffa7f3",
     "manifest.webmanifest": "36539e8a643819584341933cbf9206fc61cc8531e0ee205896b40ad1fb25d7f4",
     "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
-    "sw.js": "f0242f0ed38e35e696ae8a41e986b5c13d2d0b236af3a6fef51eaf32748def30",
-    "THIRD_PARTY_NOTICES.txt": "24f2129022933975b4aef2ca1a43f3760ed098035a60d6a83d8b25e9d232484a"
+    "sw.js": "9945febf5b1cceb2658ea3266c00b9c4f4a5a14c564e3253f631af878ba550c1",
+    "THIRD_PARTY_NOTICES.txt": "6eaf043ecabf877f121bb99e4e874c0c844185f14d04cf19ebc56daca667736a"
   }
 }
